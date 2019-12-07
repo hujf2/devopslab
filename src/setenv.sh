@@ -1,8 +1,10 @@
-export GITACCOUNT=
+export GITACCOUNT=hujf2
 
 export MYCLUSTER=
 export KUBECONFIG=
 
 export NAMESPACE=
-export EMAIL=
+export EMAIL=419644560@qq.com
 export INGRESS=
+
+
